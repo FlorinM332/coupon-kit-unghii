@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+
+<html lang="ro">
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Cupon Kit Unghii 2026 – Reduceri și Coduri Promoționale</title>
+
+<meta name="description" content="Cele mai noi cupoane Kit Unghii. Reduceri și coduri promoționale actualizate.">
+
+<meta name="keywords" content="cupon kit unghii, cod reducere kit unghii, reduceri unghii gel">
+
+<link rel="canonical" href="https://username.github.io/coupon-kit-unghii-seo/">
+
+<style>
+body{
+font-family:Arial;
+background:#fafafa;
+max-width:800px;
+margin:auto;
+padding:40px;
+}
+
+h1{
+color:#ff3b6f;
+}
+
+a{
+background:#ff3b6f;
+color:white;
+padding:12px 20px;
+border-radius:6px;
+text-decoration:none;
+}
+</style>
+
+</head>
+
+<body>
+
+<h1>Cupon Kit Unghii – Reduceri Actuale</h1>
+
+<p>
+Descoperă cele mai noi coduri promoționale pentru produse de manichiură.
+</p>
+
+<h2>Reduceri disponibile</h2>
+
+<ul>
+<li>-10 lei reducere la comenzi peste 49.9 lei</li>
+<li>-15 lei reducere la comenzi peste 99 lei</li>
+<li>-10% reducere la comenzi peste 50 lei</li>
+<li>Reduceri până la 61% la oje semipermanente</li>
+</ul>
+
+<br>
+
+<a href="https://iacupon.ro/coupon-store/kit-unghii/" target="_blank">
+Vezi toate cupoanele
+</a>
+
+</body>
+</html>
